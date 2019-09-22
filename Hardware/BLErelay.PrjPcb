@@ -105,6 +105,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCUZZQUZ
 
+[Document5]
+DocumentPath=BLErelay.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=BLErelay.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BLErelay\BLErelay.DRR
 DItemRevisionGUID=
@@ -114,66 +148,50 @@ DocumentPath=Project Outputs for BLErelay\BLErelay.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for BLErelay\BLErelay.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for BLErelay\BLErelay.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for BLErelay\BLErelay.G3
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for BLErelay\BLErelay.G4
-DItemRevisionGUID=
-
-[GeneratedDocument7]
 DocumentPath=Project Outputs for BLErelay\BLErelay.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for BLErelay\BLErelay.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for BLErelay\BLErelay.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for BLErelay\BLErelay.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for BLErelay\BLErelay.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for BLErelay\BLErelay.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for BLErelay\BLErelay.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for BLErelay\BLErelay.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for BLErelay\BLErelay.REP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for BLErelay\BLErelay.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for BLErelay\BLErelay.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for BLErelay\Design Rule Check - BLErelay.html
 DItemRevisionGUID=
 
